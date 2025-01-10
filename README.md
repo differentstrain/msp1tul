@@ -3,7 +3,7 @@ dalej klikasz na githubie w zielony przycisk Code i klikasz Download ZIP
 jak ci sie pobierze to rozpakuj i daj se na pulpit np
 klikasz instalator.bat a on za cb zainstaluje wszyssstkie moduły wymagane
 klikasz prawym msptsktv0.4.bat i Edytuj
-zmieniasz myslniki na nazwe twojego konta bo to sciezka pliku
+zmieniasz myslniki na nazwe twojego user w Windows bo to sciezka pliku
 klikasz msptsktv0.4.bat i dzialasz
 a jak jestes cipeczka to mozesz se zobaczyc w notatniku co jest w tych kodach :)
 
