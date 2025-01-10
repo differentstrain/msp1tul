@@ -5,7 +5,6 @@ klikasz instalator.bat a on za cb zainstaluje wszyssstkie moduły wymagane
 klikasz prawym msptsktv0.4.bat i Edytuj
 zmieniasz myslniki na nazwe twojego user w Windows bo to sciezka pliku
 klikasz msptsktv0.4.bat i dzialasz
-a jak jestes cipeczka to mozesz se zobaczyc w notatniku co jest w tych kodach :)
 
 za kazdym nastepnym razem uruchamiasz to przez msptskv0.4.bat
 
